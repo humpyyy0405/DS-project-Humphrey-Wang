@@ -1,3 +1,4 @@
+// change first time
 // this module focus on analysing the data based on the cleaned file and have the capability to 
 // count the apprerance of each brand in the states, find n top brands in a curtain state
 // calculate the brand probability distribution
